@@ -39,10 +39,6 @@ android {
     defaultConfig {
         minSdkVersion 16
     }
-
-    dependencies {
-        implementation 'com.facebook.android:facebook-android-sdk:latest.release'
-    }
 }
 
 kotlin {
@@ -51,3 +47,6 @@ kotlin {
     }
 }
 
+dependencies {
+    implementation 'com.facebook.android:facebook-android-sdk:latest.release'
+}

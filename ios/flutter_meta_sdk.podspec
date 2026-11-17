@@ -4,7 +4,7 @@
 #
 Pod::Spec.new do |s|
   s.name             = 'flutter_meta_sdk'
-  s.version          = '1.0.1'
+  s.version          = '1.0.6'
   s.summary          = 'Meta SDK for Flutter'
   s.description      = <<-DESC
   More information about Meta SDK for iOS you can reference the official documentation https://developers.facebook.com/docs/ios
